@@ -3,8 +3,7 @@ Python 3 solutions to the eight programming assignments in Andrew Ng’s "machin
 The solutions are in Jupyter notebook format, so that all plots cells are visible online and included in the file.
 
 I follow the MATLAB code provided with the exercises and replace MATLAB functions with the equivalent python functions/libraries where applicable. 
-However, there is no use of existing python libraries (such as scikit-learn) to skip steps in the exercises.
-Therefore the solutions mimic the MATLAB code provided with the assignments.
+There is no use of existing python modules (such as scikit-learn) to skip steps, such as writing functions explicitly.
 
 Course link:
 
